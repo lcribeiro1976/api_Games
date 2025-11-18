@@ -1,12 +1,11 @@
 {
   "name": "api_games",
   "version": "1.0.0",
-  "description": "",
+  "description": "API RESTful para gerenciamento de jogos desenvolvida com Node.js, Express e MongoDB.",
   "main": "index.js",
   "scripts": {
     "start": "node src/server.js",
     "dev": "nodemon src/server.js"
-    
   },
   "keywords": [],
   "author": "",
@@ -16,5 +15,16 @@
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "mongoose": "^8.20.0"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcribeiro/api_games.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lcribeiro/api_games/issues"
+  },
+  "homepage": "https://github.com/lcribeiro/api_games#readme"
 }
