@@ -450,13 +450,14 @@ A API retorna os seguintes códigos de status:
 }
 ```# api_Games
 =======
-<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/fee80965-ba50-41f3-a968-4df8eeaea83f" />
-<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/22c49352-1462-4659-989b-0dfabc719718" />
-<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/7afd7da7-358e-46b2-a9e8-fc60c80cc9ef" />
-<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/85a595f5-5f85-4bef-b764-ebdfbd24f54e" />
-<img width="1920" height="1140" alt="Image" src="https://github.com/user-attachments/assets/5c4acbc5-dac9-49c2-b067-b95491f3f369" />
-<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/e6c444c4-dfcc-4914-a76a-160baf102cc1" />
-<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/66469757-6995-483a-a4e3-760b3d16bd74" />
-<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/3ea0b210-3374-4ea0-b35d-2253f8205c66" />
-<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/0a5813f4-b99f-440c-81ac-2757b8646c58" />
-<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/2b283b6b-867f-4e16-aa4c-40ef97a971e3" />
+
+<img width="1600" height="1000" alt="Captura de tela 2025-11-17 211709" src="https://github.com/user-attachments/assets/619953b0-43bb-44fd-9e7e-83ef394d49dc" />
+<img width="1600" height="1000" alt="Captura de tela 2025-11-17 210522" src="https://github.com/user-attachments/assets/59a79c16-ecf9-45b0-88f8-fd2bd41198d1" />
+<img width="1600" height="1000" alt="Captura de tela 2025-11-17 203128" src="https://github.com/user-attachments/assets/603c2450-c6e2-40dd-bf9c-0ea1e7b16d26" />
+<img width="1600" height="1000" alt="Captura de tela 2025-11-17 202824" src="https://github.com/user-attachments/assets/4dc9cdc2-6af1-4709-ab6a-31109101afbc" />
+<img width="1600" height="1000" alt="Captura de tela 2025-11-17 202010" src="https://github.com/user-attachments/assets/8b5d1cc7-e5e5-444c-93b6-b8abeec29104" />
+<img width="1920" height="1140" alt="Captura de tela 2025-11-17 201530" src="https://github.com/user-attachments/assets/9b502e4a-3f3f-4154-bfc4-254e252ab14a" />
+<img width="1600" height="1000" alt="Captura de tela 2025-11-17 172916" src="https://github.com/user-attachments/assets/5e0974a2-e438-4711-961d-f3c23207dd6e" />
+<img width="1600" height="1000" alt="Captura de tela 2025-11-17 172843" src="https://github.com/user-attachments/assets/a44dfc5e-c20c-411b-979e-6dbc3177aceb" />
+<img width="1600" height="1000" alt="Captura de tela 2025-11-17 172748" src="https://github.com/user-attachments/assets/6922f2d8-6f13-45e3-9090-3d013b1a393e" />
+<img width="1600" height="1000" alt="Captura de tela 2025-11-17 172639" src="https://github.com/user-attachments/assets/a7bc3d4c-cbab-47ea-9183-a6a13a237bc6" />
