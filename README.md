@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎮 API de Games
 
 API RESTful para gerenciamento de jogos desenvolvida com Node.js, Express e MongoDB.
@@ -448,3 +449,6 @@ A API retorna os seguintes códigos de status:
   "message": "ID inválido. Use um ID válido do MongoDB."
 }
 ```# api_Games
+=======
+# api_Games
+>>>>>>> 431ff29c4abc85f053632fd35cfd95c6ce6b54a6
