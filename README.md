@@ -450,5 +450,13 @@ A API retorna os seguintes códigos de status:
 }
 ```# api_Games
 =======
-# api_Games
->>>>>>> 431ff29c4abc85f053632fd35cfd95c6ce6b54a6
+<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/fee80965-ba50-41f3-a968-4df8eeaea83f" />
+<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/22c49352-1462-4659-989b-0dfabc719718" />
+<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/7afd7da7-358e-46b2-a9e8-fc60c80cc9ef" />
+<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/85a595f5-5f85-4bef-b764-ebdfbd24f54e" />
+<img width="1920" height="1140" alt="Image" src="https://github.com/user-attachments/assets/5c4acbc5-dac9-49c2-b067-b95491f3f369" />
+<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/e6c444c4-dfcc-4914-a76a-160baf102cc1" />
+<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/66469757-6995-483a-a4e3-760b3d16bd74" />
+<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/3ea0b210-3374-4ea0-b35d-2253f8205c66" />
+<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/0a5813f4-b99f-440c-81ac-2757b8646c58" />
+<img width="1600" height="1000" alt="Image" src="https://github.com/user-attachments/assets/2b283b6b-867f-4e16-aa4c-40ef97a971e3" />
